@@ -1,0 +1,104 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+
+}
+p
+{
+  font-family: 'Noto Serif JP', serif;
+}
+h1
+{
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+}
+h2
+{
+  font-family: 'Dancing Script', cursive;
+}
+h3
+{
+  font-family: 'Dancing Script', cursive;
+}
+
+
+.top-container
+{
+  position: relative;
+background-color: #FDFAF6;
+  padding-top: 100px;
+
+
+}
+.cloud1
+{
+  position: absolute;
+  right: 100px;
+  top:80px;
+}
+.cloud2
+{
+  position: absolute;
+  left:100px;
+
+}
+.img
+{
+
+  padding-top: 100px;
+
+}
+.image
+{
+  height: 100px;
+  width:100px;
+}
+.middle-container
+{
+  background-color: #FDFAF6;
+}
+.bottom-container
+{
+    background-color: #FDFAF6;
+}
+.software{
+  height: 100px;
+  width: 100px;
+}
+.problem
+{
+  height: 100px;
+  width: 100px;
+
+}
+.quick
+{
+  height: 100px;
+  width: 100px;
+
+}
+.linked{
+  height: 50px;
+  width:50px;
+}
+.mail{
+  height: 50px;
+  width:50px;
+}
+.git{
+  height: 50px;
+  width:50px;
+}
+.twitter{
+  height: 50px;
+  width:50px;
+}
+.resume{
+  position: fixed;
+  left:50px;
+  top:50px;
+  height: 50px;
+  width:50px;
+}
